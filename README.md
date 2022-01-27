@@ -4,10 +4,15 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... khb1620@naver.com
 
+
+
+
 안녕하세요. 데이터 사이언티스트를 희망하는 김홍비입니다.
 
 
-1. Language 
+
+### 1. Language 
+
 - Python
   - Python을 활용하여 데이터 수집 및 전처리, EDA 분석, ML, DL을 할 수 있습니다.
   

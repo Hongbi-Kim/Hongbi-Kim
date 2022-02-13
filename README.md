@@ -8,6 +8,7 @@
 
 
 안녕하세요. 데이터 사이언티스트를 희망하는 김홍비입니다.
+blog : https://blog.naver.com/hongbi222
 
 
 

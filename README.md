@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hongbi-Kim
-- 👀 I’m interested in Data science.
-- 🌱 I’m currently learning how to handle Python, R and performance.
+- 👀 I’m interested in Recommender System.
+- 🌱 I’m currently learning how to handle Python, R and modeling.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... khb1620@naver.com
 

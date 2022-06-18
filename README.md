@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Data Scientist @Hongbi-Kim
+- 👋 Hi, I’m Data Scientist @Hongbi-Kim 👩‍💻
 - 👀 I’m interested in NLP, Recommendation System.
 - 🌱 I’m currently learning how to handle Python, R and modeling.
 - 📫 How to reach me ... khb1620@naver.com

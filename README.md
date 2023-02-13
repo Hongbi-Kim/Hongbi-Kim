@@ -1,6 +1,6 @@
 - 👋 Hi, I’m AI Researcher @Hongbi-Kim 👩‍💻
 - 👀 I’m interested in Deep Learning, Brain, Computer Vision.
-- 🌱 I’m currently working in AI Lab.
+- 🌱 I’m currently working in Korea Atomic Energy Research Institute(KAERI).
 - 📫 contact : khb1620@naver.com
 
 

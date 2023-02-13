@@ -1,5 +1,5 @@
 - 👋 Hi, I’m AI Researcher @Hongbi-Kim 👩‍💻
-- 👀 I’m interested in Deep Learning, Brain, Time-series, Computer Vision.
+- 👀 I’m interested in Deep Learning, Brain, Computer Vision.
 - 🌱 I’m currently working in AI Lab.
 - 📫 contact : khb1620@naver.com
 

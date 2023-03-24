@@ -1,5 +1,5 @@
 - 👋 Hi, I’m AI Researcher @Hongbi-Kim 👩‍💻
-- 👀 I’m interested in Deep Learning, Brain, Computer Vision.
+- 👀 I’m interested in Deep Learning, NLP, Chatbot.
 - 🌱 I’m currently working in Korea Atomic Energy Research Institute(KAERI).
 - 📫 contact : khb1620@naver.com
 
@@ -27,6 +27,9 @@ You can click the Preview link to take a look at your changes.
 <img alt="Javascript" src ="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=Javascript&logoColor=white"/>
 <img alt="Fastify" src ="https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white"/>
 <img alt="Netlify" src ="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"/>
+<br>
+<img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B.svg?&style=for-the-badge&logo=Streamlit&logoColor=white"/>
+<img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991.svg?&style=for-the-badge&logo=OpenAI&logoColor=white"/><br>
 </div>
 
 <br>

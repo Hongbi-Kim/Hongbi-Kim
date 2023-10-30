@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in Deep Learning, NLP, Conversation AI, Chatbot.
 - 🌱 I’m currently working in Korea Atomic Energy Research Institute(KAERI).
-- 📫 contact : khb1620@naver.com
+- 📫 contact : 
 
 <!-- ![Hongbi-Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hongbi-Kim&count_private=true&show_icons=true&theme=radical) -->
 

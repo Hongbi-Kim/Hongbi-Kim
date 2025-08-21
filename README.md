@@ -1,18 +1,24 @@
+<!-- ![header](https://capsule-render.vercel.app/api?type=speech&text=HELLO-WORLD&fontSize=40&animation=fadeIn) -->
 ### 👋 Hi, I’m AI Engineer @Hongbi-Kim 👩‍💻
+<a href="www.linkedin.com/in/hongbikim-wavetoai" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="https://wavetoai.com/category/NLP%20%7C%20LLM" target="_blank"><img src="https://img.shields.io/badge/Blog-181717?style=flat-square&logo=tistory&logoColor=#000000"/></a>
 
-- 👀 I’m interested in `Deep Learning`, `NLP`, `LLM`, `Prompt Engineering`, `RAG`.
-- 🌱 
-- 📫 LinkedIn: www.linkedin.com/in/hongbikim-wavetoai
+
+👀 I’m interested in `AGI`, `AX` and `RAG`, `Agent`, `LLM`.\
+🌱 I aim to build AI partners that enhance both emotional well-being and productivity, giving users more ease in their everyday life and work.
+<!-- - 📫  -->
+    
+
 
 <!-- ![Hongbi-Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hongbi-Kim&count_private=true&show_icons=true&theme=radical) -->
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hongbi-Kim) -->
+<br>
+<!-- 
 
- <!-- ---
-
-  <!-- ### 🔥Skills
- <!-- #### Programming Languages:  -->
-  <!-- ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
+### 🔥Skills
+ #### Programming Languages: 
+  ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
  ![HTML5](https://img.shields.io/badge/html-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)<br>
  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
  ![Numpy](https://img.shields.io/badge/Numpy-%23013243.svg?&style=for-the-badge&logo=Numpy&logoColor=white)
@@ -31,9 +37,9 @@
  <!-- #### Data Processing / Analysis / Visualization and Web Scraping -->
  <!-- #### Deep Learning/Machine Learning(Artificial Intelligence) Frameworks -->
  <!-- #### Web Development/Server -->
- <!-- #### Interactive Web App Creation -->
- <!-- #### Deployment/Hosting -->
+ <!-- #### Interactive Web App Creation
+ <!-- #### Deployment/Hosting
  <!-- ---
  
  Remember, Hongbi-Kim/Hongbi-Kim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+ -->

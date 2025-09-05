@@ -15,6 +15,13 @@
 <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=000"/>
 <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white"/>
+<br>
+[파동이봇(LINE)](https://github.com/Hongbi-Kim/LINE-KAERIBOT) | 한국원자력연구원 "파동이"와 원자력에 대해 친근하게 대화할 수 있는 라인 챗봇
+<img src="https://img.shields.io/badge/LINE-00C300?style=flat&logo=line&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=OpenAI&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=000"/>
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white"/>
 <br><br>
 
 ### 🔥 Personal Project & Competition

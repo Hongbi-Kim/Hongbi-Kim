@@ -22,8 +22,6 @@
 ## 🔥 Project (Work)
 ### [파동이봇](https://github.com/Hongbi-Kim/KAERI-BOT-beta) (KAERI 사내 QA 챗봇, 2023)
 규정 및 연구원 정보에 관한 질문에 대해 **정확한 RAG 기반 QA** 제공하는 서비스 (2023)\
-→ 목표: 사내 검색/문의 및 반복 질문 대응 시간을 단축\
-→ 역할: RAG 파이프라인 설계, 프롬프트/지식 베이스 구성, 서비스 배포\
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=Streamlit&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=OpenAI&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white"/>
@@ -34,8 +32,6 @@
 ### [파동이봇](https://github.com/Hongbi-Kim/LINE-KAERIBOT) (LINE 챗봇, 2023)
 
 한국원자력연구원 캐릭터 "파동이"와 원자력에 대해 **친근하게 대화**할 수 있는 LINE 챗봇 (2023)\
-→ 목표: 원자력에 대한 인식 개선과 전문적인 내용을 편하게 물어보는 것\
-→ 역할: 대화 플로우 설계, 프롬프트 엔지니어링, LINE 연동\
 <img src="https://img.shields.io/badge/LINE-00C300?style=flat&logo=line&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=OpenAI&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white"/>
@@ -45,7 +41,6 @@
 
 ### On-device Agentic RAG 리포트 생성 앱 (Private, 2024)
 On-device sLM과 RAG를 활용해 **리포트 초안을 자동 생성**하는 데스크톱 애플리케이션.  
-→ **특징**: 오프라인 환경에서도 동작, 문서 수집 → 벡터화 → 에이전트 기반 구조화 리포트 생성\
 <img src="https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white"/>
 <img src="https://img.shields.io/badge/Qdrant-FF4F00?style=flat&logo=qdrant&logoColor=white"/>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white"/>
@@ -90,18 +85,15 @@ T 성향을 가진 사람들이 **감정 공감 훈련**을 해볼 수 있는, A
 <br>
 
 ## 🏆 Competitions & Awards
-- [2025 금융 AI Challenge : 금융 AI 모델 경쟁](https://github.com/Hongbi-Kim/DACON-finance) | 비정형 금융 도메인 지식을 활용해 **LLM + RAG 기반의 정확한 응답을 생성하는 금융 AI 모델** 개발 (2025)
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=FFF"/>
-<img src="https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white"/>
-<img src="https://img.shields.io/badge/Qdrant--DB-e80248?style=flat"/>
-- [딥러닝을 이용한 장르별, 사용자 이야기 맞춤형 노래가사 생성 서비스](https://github.com/Hongbi-Kim/Writing-lyrics) | 사용자 사연과 음악 장르를 입력하면, **맞춤형 노래 가사**를 생성하는 서비스 (우수상) (2022)
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=FFF"/>
-- [독자맞춤형 하이브리드 도서 추천 시스템](https://github.com/Hongbi-Kim/Project-book-recommendation) | 독자의 상황 및 회원 여부에 따른 **콘텐츠/협업필터링** 도서 추천 시스템 (최우수상) (2022)
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=FFF"/>
-- [모델링을 활용한 상점별 미래 판매 예측](https://github.com/Hongbi-Kim/Project_predict_future_sales) | 시계열/회귀 모델링을 활용해 상점별 **미래 판매량을 예측** (우수상) (2022)
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=FFF"/>
-- [신용카드 사기 거래 탐지 AI 경진대회](https://github.com/Hongbi-Kim/DACON-card-anomaly-detection) | 비식별화된 신용카드 거래 데이터를 활용해 **사기 거래를 탐지하는 이상 탐지 모델** 개발 (상위 2.03%) (2022)
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=FFF"/>
+- [2025 금융 AI Challenge : 금융 AI 모델 경쟁](https://github.com/Hongbi-Kim/DACON-finance) | 비정형 금융 도메인 지식을 활용해 **LLM + RAG 기반의 정확한 응답을 생성하는 금융 AI 모델** 개발 (2025)<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=FFF"/> <img src="https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white"/> <img src="https://img.shields.io/badge/Qdrant--DB-e80248?style=flat"/>
+
+- [딥러닝을 이용한 장르별, 사용자 이야기 맞춤형 노래가사 생성 서비스](https://github.com/Hongbi-Kim/Writing-lyrics) | 사용자 사연과 음악 장르를 입력하면, **맞춤형 노래 가사**를 생성하는 서비스 (우수상) (2022)<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=FFF"/>
+
+- [독자맞춤형 하이브리드 도서 추천 시스템](https://github.com/Hongbi-Kim/Project-book-recommendation) | 독자의 상황 및 회원 여부에 따른 **콘텐츠/협업필터링** 도서 추천 시스템 (최우수상) (2022)<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=FFF"/>
+
+- [모델링을 활용한 상점별 미래 판매 예측](https://github.com/Hongbi-Kim/Project_predict_future_sales) | 시계열/회귀 모델링을 활용해 상점별 **미래 판매량을 예측** (우수상) (2022)<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=FFF"/>
+
+- [신용카드 사기 거래 탐지 AI 경진대회](https://github.com/Hongbi-Kim/DACON-card-anomaly-detection) | 비식별화된 신용카드 거래 데이터를 활용해 **사기 거래를 탐지하는 이상 탐지 모델** 개발 (상위 2.03%) (2022)<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=FFF"/>
 <!-- - 📫  -->
 
 <!-- ---

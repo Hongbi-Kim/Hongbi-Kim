@@ -84,16 +84,6 @@ T 성향을 가진 사람들이 **감정 공감 훈련**을 해볼 수 있는, A
 
 <br>
 
-## 🏆 Competitions & Awards
-- [2025 금융 AI Challenge : 금융 AI 모델 경쟁](https://github.com/Hongbi-Kim/DACON-finance) | 비정형 금융 도메인 지식을 활용해 **LLM + RAG 기반의 정확한 응답을 생성하는 금융 AI 모델** 개발 (2025)<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=FFF"/> <img src="https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white"/> <img src="https://img.shields.io/badge/Qdrant--DB-e80248?style=flat"/>
-
-- [딥러닝을 이용한 장르별, 사용자 이야기 맞춤형 노래가사 생성 서비스](https://github.com/Hongbi-Kim/Writing-lyrics) | 사용자 사연과 음악 장르를 입력하면, **맞춤형 노래 가사**를 생성하는 서비스 (우수상) (2022)<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=FFF"/>
-
-- [독자맞춤형 하이브리드 도서 추천 시스템](https://github.com/Hongbi-Kim/Project-book-recommendation) | 독자의 상황 및 회원 여부에 따른 **콘텐츠/협업필터링** 도서 추천 시스템 (최우수상) (2022)<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=FFF"/>
-
-- [모델링을 활용한 상점별 미래 판매 예측](https://github.com/Hongbi-Kim/Project_predict_future_sales) | 시계열/회귀 모델링을 활용해 상점별 **미래 판매량을 예측** (우수상) (2022)<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=FFF"/>
-
-- [신용카드 사기 거래 탐지 AI 경진대회](https://github.com/Hongbi-Kim/DACON-card-anomaly-detection) | 비식별화된 신용카드 거래 데이터를 활용해 **사기 거래를 탐지하는 이상 탐지 모델** 개발 (상위 2.03%) (2022)<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=FFF"/>
 <!-- - 📫  -->
 
 <!-- ---

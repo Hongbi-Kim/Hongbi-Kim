@@ -55,7 +55,7 @@ On-device sLM과 RAG를 활용해 **리포트 초안을 자동 생성**하는 �
 
 ## 💡 Personal Products
 
-### [Wave I](https://github.com/Hongbi-Kim/wave-I)   – 감정 케어 플랫폼 (진행중, 2025)
+### [WAVE log]([https://github.com/Hongbi-Kim/wave-I](https://github.com/Hongbi-Kim/WAVElog_public))   – 감정 케어 플랫폼 (진행중, 2025)
 AI 캐릭터와 대화를 통해 감정을 탐색하고, 일기를 작성하며, 나를 이해하는 **감정 케어 플랫폼**\
 <img src="https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white"/>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white"/>

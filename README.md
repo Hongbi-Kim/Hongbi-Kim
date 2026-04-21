@@ -67,7 +67,7 @@ AI 캐릭터와 대화를 통해 감정을 탐색하고, 일기를 작성하며,
 
 
 
-### [GROUNDED](https://github.com/Hongbi-Kim/GROUNDED-rag) – 건축법률 QA 서비스 (진행중, 2025)
+### [GROUNDED](https://github.com/Hongbi-Kim/GROUNDED_public) – 건축법률 QA 서비스 (진행중, 2025)
 건축법률을 기반으로 **정확한 답변과 근거**를 제공하는 질의응답 AI 서비스\
 <img src="https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white"/>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white"/>

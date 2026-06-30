@@ -55,6 +55,15 @@ On-device sLM과 RAG를 활용해 **리포트 초안을 자동 생성**하는 �
 
 ## 💡 Personal Products
 
+### [PomoPet](https://github.com/Hongbi-Kim/PomoPet) – 데스크탑 펫 집중 타이머 (2026)
+귀여운 캐릭터가 데스크탑 위에 상주하며 **뽀모도로 타이머로 집중 시간을 함께 기록**하는 데스크탑 앱\
+<img src="https://img.shields.io/badge/Tauri-24C8D8?style=flat&logo=tauri&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000000"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white"/>
+
+
 ### [WAVE log](https://github.com/Hongbi-Kim/WAVElog_public)   – 감정 케어 플랫폼 (진행중, 2025)
 AI 캐릭터와 대화를 통해 감정을 탐색하고, 일기를 작성하며, 나를 이해하는 **감정 케어 플랫폼**\
 <img src="https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white"/>

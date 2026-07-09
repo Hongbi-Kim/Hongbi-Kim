@@ -21,75 +21,35 @@
 
 ## 🔥 Project (Work)
 ### [파동이봇](https://github.com/Hongbi-Kim/KAERI-BOT-beta) (KAERI 사내 QA 챗봇, 2023)
-규정 및 연구원 정보에 관한 질문에 대해 **정확한 RAG 기반 QA** 제공하는 서비스 (2023)\
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=Streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=OpenAI&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=000"/>
-<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white"/>
-
+규정 및 연구원 정보에 관한 질문에 대해 **정확한 RAG 기반 QA** 제공하는 서비스 (2023)
 
 ### [파동이봇](https://github.com/Hongbi-Kim/LINE-KAERIBOT) (LINE 챗봇, 2023)
 
-한국원자력연구원 캐릭터 "파동이"와 원자력에 대해 **친근하게 대화**할 수 있는 LINE 챗봇 (2023)\
-<img src="https://img.shields.io/badge/LINE-00C300?style=flat&logo=line&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=OpenAI&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=000"/>
-<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white"/>
+한국원자력연구원 캐릭터 "파동이"와 원자력에 대해 **친근하게 대화**할 수 있는 LINE 챗봇 (2023)
 <br><br>
 
 ### On-device Agentic RAG 리포트 생성 앱 (Private, 2024)
 On-device sLM과 RAG를 활용해 **리포트 초안을 자동 생성**하는 데스크톱 애플리케이션.  
-<img src="https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white"/>
-<img src="https://img.shields.io/badge/Qdrant-FF4F00?style=flat&logo=qdrant&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000000"/>
-<img src="https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-
 <br>
 
 ## 💡 Personal Products
 
-### [PomoPet](https://github.com/Hongbi-Kim/PomoPet) – 데스크탑 펫 집중 타이머 (2026)
-귀여운 캐릭터가 데스크탑 위에 상주하며 **뽀모도로 타이머로 집중 시간을 함께 기록**하는 데스크탑 앱\
-<img src="https://img.shields.io/badge/Tauri-24C8D8?style=flat&logo=tauri&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000000"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white"/>
+### [PomoPet](https://pomopet.wavetox.com/) – 데스크탑 펫 집중 타이머 (2026)
+귀여운 캐릭터가 데스크탑 위에 상주하며 **뽀모도로 타이머로 집중 시간을 함께 기록**하는 데스크탑 앱
 
+### [LuckyDream](https://luckydream.wavetox.com) – AI 꿈 해몽 서비스 (2026)
+꿈의 요정이 꿈을 해석하고 사용자가 궁금한 점을 꿈과 함께 설명해주는 AI 꿈 해몽 서비스
 
 ### [WAVE log](https://github.com/Hongbi-Kim/WAVElog_public)   – 감정 케어 플랫폼 (진행중, 2025)
-AI 캐릭터와 대화를 통해 감정을 탐색하고, 일기를 작성하며, 나를 이해하는 **감정 케어 플랫폼**\
-<img src="https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000000"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
-
+AI 캐릭터와 대화를 통해 감정을 탐색하고, 일기를 작성하며, 나를 이해하는 **감정 케어 플랫폼**
 
 
 ### [GROUNDED](https://github.com/Hongbi-Kim/GROUNDED_public) – 건축법률 QA 서비스 (진행중, 2025)
-건축법률을 기반으로 **정확한 답변과 근거**를 제공하는 질의응답 AI 서비스\
-<img src="https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/Qdrant-FF4F00?style=flat&logo=qdrant&logoColor=white"/>
-
+건축법률을 기반으로 **정확한 답변과 근거**를 제공하는 질의응답 AI 서비스
 
 ### [NaTna](https://github.com/Hongbi-Kim/na-T-na-AI) – 감정 공감 훈련 챗봇 (2025)
-T 성향을 가진 사람들이 **감정 공감 훈련**을 해볼 수 있는, AI 챗봇 기반 감정 시뮬레이션 서비스\
-<img src="https://img.shields.io/badge/HyperCLOVA-03C75A?style=flat&logo=naver&logoColor=000"/>
-<img src="https://img.shields.io/badge/CLOVAspeech-03C75A?style=flat&logo=&logoColor=000"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=FastAPI&logoColor=FFF"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=000"/>
-<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=FFF"/>
+T 성향을 가진 사람들이 **감정 공감 훈련**을 해볼 수 있는, AI 챗봇 기반 감정 시뮬레이션 서비스
+
 
 <br>
 

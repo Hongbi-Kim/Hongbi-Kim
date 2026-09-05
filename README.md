@@ -37,11 +37,12 @@ On-device sLM과 RAG를 활용해 **리포트 초안을 자동 생성**하는 �
 ### [GROUNDED](https://github.com/Hongbi-Kim/GROUNDED_public) – 건축법률 QA 서비스 (진행중, 2026)
 건축법률을 기반으로 **정확한 답변과 근거**를 제공하는 질의응답 AI 서비스
 
-### [PomoPet](https://pomopet.wavetox.com/) – 데스크탑 펫 집중 타이머 (2026)
+### [SayLong](https://github.com/Hongbi-Kim/SayLong_public) – AI 영어 학습앱 (2026)
+짧은 문장에서 시작해 단계별로 긴 문장을 완성하는 영어 학습앱
+
+### [PomoPet](https://pomopet.thewavera.com/) – 데스크탑 펫 집중 타이머 (2026)
 귀여운 캐릭터가 데스크탑 위에 상주하며 **뽀모도로 타이머로 집중 시간을 함께 기록**하는 데스크탑 앱
 
-### [LuckyDream](https://luckydream.wavetox.com) – AI 꿈 해몽 서비스 (2026)
-꿈의 요정이 꿈을 해석하고 사용자가 궁금한 점을 꿈과 함께 설명해주는 AI 꿈 해몽 서비스
 
 <!-- ### [WAVE log](https://github.com/Hongbi-Kim/WAVElog_public)   – 감정 케어 플랫폼 (진행중, 2025)
 AI 캐릭터와 대화를 통해 감정을 탐색하고, 일기를 작성하며, 나를 이해하는 **감정 케어 플랫폼** -->

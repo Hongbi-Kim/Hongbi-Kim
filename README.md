@@ -5,10 +5,10 @@
 👀 관심 분야: `AGI`, `AX(AI Experience)`, `RAG`, `Agent`, `LLM`  
 🌱 목표: 사용자의 하루를 더 가볍고, 더 생산적으로 만들어 주는 **실질적인 AI 동료**를 설계·구현하는 것에 집중하고 있습니다.
 
-> I design AI partners that care about both **emotional well‑being** and **productivity**.
+<!-- I design AI partners that care about both **emotional well‑being** and **productivity**. -->
 
-👀 Interests: `AGI`, `AX (AI Experience)`, `RAG`, `Agents`, `LLMs`  
-🌱 I focus on building AI coworkers that make people’s **daily life and work easier**, not just smarter.
+<!-- 👀 Interests: `AGI`, `AX (AI Experience)`, `RAG`, `Agents`, `LLMs`   -->
+<!-- 🌱 I focus on building AI coworkers that make people’s **daily life and work easier**, not just smarter. -->
 
 
 <!-- <a href="www.linkedin.com/in/hongbikim-wavetoai" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a> -->
@@ -28,7 +28,7 @@
 한국원자력연구원 캐릭터 "파동이"와 원자력에 대해 **친근하게 대화**할 수 있는 LINE 챗봇 (2023)
 <br><br>
 
-### On-device Agentic RAG 리포트 생성 앱 (Private, 2024)
+### [로컬 문서 기반 리포트 생성 On-device 앱 개발](https://github.com/Hongbi-Kim/ReportGen_public) (Private, 2024)
 On-device sLM과 RAG를 활용해 **리포트 초안을 자동 생성**하는 데스크톱 애플리케이션.  
 <br>
 

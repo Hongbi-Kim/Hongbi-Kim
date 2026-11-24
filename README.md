@@ -34,7 +34,7 @@ On-device sLM과 RAG를 활용해 **리포트 초안을 자동 생성**하는 �
 
 ## 💡 Personal Products
 
-### [GROUNDED](https://github.com/Hongbi-Kim/GROUNDED_public) – 건축 법령 AI 에이전트 하네스 (2026)
+### [GROUNDED](https://github.com/Hongbi-Kim/GROUNDED_public) – 건축 법령 AI 에이전트 서비스 (2026)
 건축법률을 기반으로 **정확한 답변과 근거**를 제공하고 제출 문서 폼을 자동으로 채워주는 AI 서비스
 
 ### [SayLong](https://github.com/Hongbi-Kim/SayLong_public) – AI 영어 학습앱 (2026)

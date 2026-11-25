@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="280" height="212" viewBox="0 0 280 212" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Apple SD Gothic Neo', 'Noto Sans KR', 'Malgun Gothic', sans-serif">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#151b2e"/><stop offset="1" stop-color="#0d1117"/></linearGradient>
+  <linearGradient id="bd" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fbbf24" stop-opacity=".75"/><stop offset=".5" stop-color="#fbbf24" stop-opacity=".12"/><stop offset="1" stop-color="#fbbf24" stop-opacity=".4"/></linearGradient>
+  <radialGradient id="gl" cx="1" cy="0" r="1"><stop offset="0" stop-color="#fbbf24" stop-opacity=".28"/><stop offset="1" stop-color="#fbbf24" stop-opacity="0"/></radialGradient>
+  <clipPath id="cl"><rect x="1" y="1" width="278" height="210" rx="16"/></clipPath>
+</defs>
+<rect x="1" y="1" width="278" height="210" rx="16" fill="url(#bg)"/>
+<g clip-path="url(#cl)"><circle cx="280" cy="0" r="154" fill="url(#gl)"/><rect x="1" y="1" width="5" height="212" fill="#fbbf24" opacity=".9"/></g>
+<rect x="1" y="1" width="278" height="210" rx="16" fill="none" stroke="url(#bd)" stroke-width="1.5"/>
+<rect x="24" y="16" width="36" height="36" rx="10" fill="#fbbf24" fill-opacity=".14" stroke="#fbbf24" stroke-opacity=".35"/>
+<g transform="translate(32 24) scale(.8333)" fill="none" stroke="#fbbf24" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 16V7a2 2 0 0 0-2-2H6a2 2 0 0 0-2 2v9m16 0H4m16 0 1.28 2.55a1 1 0 0 1-.9 1.45H3.62a1 1 0 0 1-.9-1.45L4 16"/></g>
+<rect x="171" y="22" width="85" height="22" rx="11" fill="#ffffff" fill-opacity=".06" stroke="#ffffff" stroke-opacity=".14"/>
+
+<text x="213" y="37" text-anchor="middle" font-size="10.5" font-weight="700" letter-spacing=".6" fill="#8b949e">WORK · 2024</text>
+<text x="24" y="84" font-size="22" font-weight="800" fill="#f0f6fc">ReportGen</text>
+<text x="24" y="107" font-size="13" font-weight="600" fill="#fbbf24">On-device 리포트 생성 앱</text>
+<text x="24" y="136" font-size="13.5" fill="#c9d1d9">On-device sLM과 RAG를 활용해</text><text x="24" y="156" font-size="13.5" fill="#c9d1d9">리포트 초안을 자동 생성하는 데스크톱 앱</text>
+<rect x="24" y="170" width="79" height="22" rx="11" fill="#fbbf24" fill-opacity=".12" stroke="#fbbf24" stroke-opacity=".35"/><text x="64" y="185" text-anchor="middle" font-size="11.5" font-weight="600" fill="#fbbf24">On-device</text><rect x="109.10999999999999" y="170" width="42" height="22" rx="11" fill="#fbbf24" fill-opacity=".12" stroke="#fbbf24" stroke-opacity=".35"/><text x="130" y="185" text-anchor="middle" font-size="11.5" font-weight="600" fill="#fbbf24">sLM</text><rect x="156.73" y="170" width="43" height="22" rx="11" fill="#fbbf24" fill-opacity=".12" stroke="#fbbf24" stroke-opacity=".35"/><text x="178" y="185" text-anchor="middle" font-size="11.5" font-weight="600" fill="#fbbf24">RAG</text>
+</svg>

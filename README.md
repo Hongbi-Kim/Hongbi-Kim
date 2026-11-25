@@ -6,10 +6,12 @@
   <a href="https://thewavera.com/profile"><img src="./assets/cv-button.svg" height="38" alt="PROFILE"/></a>
 </p>
 
+<!--
 <p align="center">
   사람의 <b>감정과 생산성</b>을 동시에 챙기는 <b>“AI 파트너”</b>를 만드는 엔지니어입니다.<br/>
   사용자의 하루를 더 가볍고 생산적으로 만들어 주는 <b>실질적인 AI 동료</b>를 만듭니다.
 </p>
+-->
 
 <br/>
 
